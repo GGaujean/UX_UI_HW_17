@@ -33,4 +33,9 @@ height:300px
 }
 .twoBox{
     background-color: brown;
+    padding:10px;
+    color:bisque;
+    font-size:30;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display:grid;
 }
