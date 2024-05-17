@@ -5,10 +5,10 @@ header{
 
 }
 
-main{
-
+.main{background-color: beige;
+height:300px
 }
-topNavBarli {
+.topNavBarli {
     display:inline; 
     padding: 10px;
     margin:10px; 
@@ -17,11 +17,16 @@ topNavBarli {
     font-family
 }
 
-topNavBar{
+.topNavBar{
     padding: 10px;
     text-align: right;
 }
 
 topNavbar{
     color:brown
+}
+.maingird{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 10px:
 }
